@@ -1,6 +1,9 @@
 # bim493_assignment
 
-A new Flutter project.
+bim493 lecture assignment
+
+<img src="https://github.com/aysegullkadiroglu/estu-mobile-programming-flutter/assets/46954286/1debc522-43ac-4e9e-bb47-0fac855f77af" width="300">
+
 
 ## Getting Started
 
