@@ -1,6 +1,7 @@
 # flutter_app_2
 
-A new Flutter project.
+<img src="https://github.com/aysegullkadiroglu/estu-mobile-programming-flutter/assets/46954286/14d119c8-089d-4f07-ba81-a216f75a5645" width="300">
+
 
 ## Getting Started
 
