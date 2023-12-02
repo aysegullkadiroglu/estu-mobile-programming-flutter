@@ -8,26 +8,26 @@ Varsa Paran includes four different menus after the user logs in to our applicat
 
 <h1>Major Features</h1>
 
-- The user can log in from the ‘Login Screen’ after entering the phone number and password.
-![Login Screen](https://github.com/aysegullkadiroglu/estu-mobile-programming-flutter/assets/46954286/a50668bf-67c5-45d9-86c4-7da3511eb947)
+- The user can log in from the ‘Login Screen’ after entering the phone number and password.<br><br>
+<img src="https://github.com/aysegullkadiroglu/estu-mobile-programming-flutter/assets/46954286/a50668bf-67c5-45d9-86c4-7da3511eb947" width="300">
 
-- When the user forgets his password, he clicks on 'I forgot my password' and is directed to that page. As a result of our research, users who forget their passwords are asked for their mobile phone number, so we found this more appropriate.
-![Forgot Password](https://github.com/aysegullkadiroglu/estu-mobile-programming-flutter/assets/46954286/676cab3b-8909-40fe-b393-ba29e8aee14d)
+- When the user forgets his password, he clicks on 'I forgot my password' and is directed to that page. As a result of our research, users who forget their passwords are asked for their mobile phone number, so we found this more appropriate
+<img src="https://github.com/aysegullkadiroglu/estu-mobile-programming-flutter/assets/46954286/676cab3b-8909-40fe-b393-ba29e8aee14d" width="300">
 
 - If the user wants to become a member of the application, she/he can become a member after clicking the 'Sign up' button and filling in the necessary personal information in the window that opens.
-![Sign Up](https://github.com/aysegullkadiroglu/estu-mobile-programming-flutter/assets/46954286/475d960f-4969-4eab-8e50-eb2ab15f8599)
+<img src="https://github.com/aysegullkadiroglu/estu-mobile-programming-flutter/assets/46954286/475d960f-4969-4eab-8e50-eb2ab15f8599" width="300">
 
 - On the 'Explore' page, the user can see (buy/sell) stocks of companies in the stock market. She/he can see the rate (increase/decrease) of stock changes.
-![Explore Page](https://github.com/aysegullkadiroglu/estu-mobile-programming-flutter/assets/46954286/5cefe55a-9b52-4736-9b11-f72926aff8a5)
+<img src="https://github.com/aysegullkadiroglu/estu-mobile-programming-flutter/assets/46954286/5cefe55a-9b52-4736-9b11-f72926aff8a5" width="300">
 
 - The user can convert any currency he/she wants to another currency and view it on the 'Currency Converter'.
-![Currency Converter Page](https://github.com/aysegullkadiroglu/estu-mobile-programming-flutter/assets/46954286/7591eb6b-05cc-46f8-929d-d171d3844bb0)
+<img src="https://github.com/aysegullkadiroglu/estu-mobile-programming-flutter/assets/46954286/7591eb6b-05cc-46f8-929d-d171d3844bb0" width="300">
 
 - On the 'Chat' page, the user can read the messages sent by other users who are members of the application or chat with them without switching between apps.
-![Chat Page](https://github.com/aysegullkadiroglu/estu-mobile-programming-flutter/assets/46954286/54d93a56-7e50-4002-a89d-634e1e4c331c)
+<img src="https://github.com/aysegullkadiroglu/estu-mobile-programming-flutter/assets/46954286/54d93a56-7e50-4002-a89d-634e1e4c331c" width="300">
 
 - The user can view the current news about the stock market agenda on the 'News' page instead of going to search from Google.
-![News Page](https://github.com/aysegullkadiroglu/estu-mobile-programming-flutter/assets/46954286/ef79eaf3-c776-4e1f-93f4-300810f4a7be)
+<img src="https://github.com/aysegullkadiroglu/estu-mobile-programming-flutter/assets/46954286/ef79eaf3-c776-4e1f-93f4-300810f4a7be" width="300">
 
 You can see the video of the project in my Youtube channel: [https://www.youtube.com/watch?v=2ktudss_94E&t=73]
 ## Getting Started
